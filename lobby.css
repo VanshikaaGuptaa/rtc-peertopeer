@@ -1,0 +1,41 @@
+
+#form-container{
+    width: 90%;
+    max-width: 600px;
+    border-radius: 10px;
+    
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+#form {
+    border-radius: 10px 10px 0 0;
+    padding: 30px;
+    text-align: center;
+    
+    margin: 0;
+    font-size: 18px;
+    font-size: 300;
+    line-height: 0;
+  }
+
+
+
+input {
+    box-sizing: border-box;
+    
+    width: 100%;
+    margin: 0;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 16px 20px;
+    font-size: 15px;
+
+    margin-top: 32px;
+  }
+ 
+ 
+  
